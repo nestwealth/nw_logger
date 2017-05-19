@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/nestwealth/nw_logger/issues"
   },
-  "homepage": "https://github.com/nestwealth/nw_logger#readme"
+  "homepage": "https://github.com/nestwealth/nw_logger#readme",
+  "dependencies": {
+    "winston": "2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "eslint-plugin-json": "1.2.0"
+  }
 }
