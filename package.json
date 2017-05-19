@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nestwealth/nw_logger#readme",
   "dependencies": {
+    "debug": "2.6.8",
     "winston": "2.3.1"
   },
   "devDependencies": {
